@@ -1,0 +1,12 @@
+TrajectoryPlannerROS:
+
+  # Robot Configuration Parameters
+  holonomic_robot: false
+
+  
+  # Forward Simulation Parameters
+  sim_time: 20.0
+  controller_frequency: 4.0
+    
+  # Trajectory Scoring Parameters
+  meter_scoring: true
