@@ -34,7 +34,7 @@ $ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```  
 
 ## References  
-1. [The inertia matrix explained](http://answers.gazebosim.org/question/4372/the-inertia-matrix-explained/): GAZEBO ANSWERS  
+1. [Basic Navigation Tuning Guide](http://wiki.ros.org/navigation/Tutorials/Navigation%20Tuning%20Guide): ROS wiki  
 2. [[ROS Projects] – Exploring ROS using a 2 Wheeled Robot](http://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1/): The Construct  
 3. [移動型ロボットのURDF作成](https://gbiggs.github.io/rosjp_urdf_tutorial_text/mobile_robot_urdf.html): ロボットモデリング講習会
 
