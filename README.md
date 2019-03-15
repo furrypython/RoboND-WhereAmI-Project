@@ -16,7 +16,7 @@ $ roslaunch my_robot world.launch
 
 In a new terminal, launch the `amcl` launch file:  
 ```sh  
-$ roslaunch <YOUR PACKAGE NAME> amcl.launch
+$ roslaunch my_robot amcl.launch
 ```  
 
 ## Testing  
