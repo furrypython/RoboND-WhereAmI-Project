@@ -1,6 +1,7 @@
 TrajectoryPlannerROS:
 
   # Robot Configuration Parameters
+  acc_lim_x: 1.0 #new
   holonomic_robot: false
 
   # Forward Simulation Parameters
