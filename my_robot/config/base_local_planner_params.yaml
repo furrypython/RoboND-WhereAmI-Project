@@ -1,17 +1,11 @@
 TrajectoryPlannerROS:
 
   # Robot Configuration Parameters
-  acc_lim_x: 0.5 #new
-  acc_lim_y: 0.0 #new
-  max_vel_x: 0.45 #new
-  min_vel_x: 0.1 #new
-  max_vel_theta: 0.8 #new
-  min_vel_theta: -0.8 #new
   holonomic_robot: false
 
   # Forward Simulation Parameters
-  sim_time: 10.0 #20.0 #default: 1.0
-  controller_frequency: 4.0 # default: 20
+  sim_time: 5.0
+  controller_frequency: 4.0
     
   # Trajectory Scoring Parameters
   meter_scoring: true
