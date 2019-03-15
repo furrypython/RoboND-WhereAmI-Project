@@ -7,8 +7,8 @@ transform_tolerance: 0.5
 
 # Obstacle Map Layer
 observation_sources: laser_scan_sensor
-obstacle_range: 1.5
-raytrace_range: 1.5
+obstacle_range: 1.2 #2.0
+raytrace_range: 1.5 #3.0
 
 # Inflation Layer
 inflation_radius: 0.65
