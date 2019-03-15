@@ -1,5 +1,5 @@
 # Where Am I Project  
-This is the 2nd project in the Robotics Software Engineer Nanodegree Program by Udacity.  
+This is the 3rd project in the Robotics Software Engineer Nanodegree Program by Udacity.  
 
 ## Project Discription  
 In this project, I learned several aspects of robotic software engineering with a focus on ROS:  
