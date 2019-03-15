@@ -17,6 +17,7 @@
     <param name="update_min_d" value="0.25"/>
     <!-- param name="update_min_a" value="0.2"/ -->
     <param name="update_min_a" value="0.1"/>
+    <!-- Increase transform_tolerance, if you received warning on Transform Timeout and Map Update Loop -->
     <param name="transform_tolerance" value="0.1"/>
     <param name="initial_pose_x" value="0.0"/>
     <param name="initial_pose_y" value="0.0"/>
