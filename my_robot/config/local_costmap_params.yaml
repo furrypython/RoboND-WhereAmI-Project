@@ -1,10 +1,12 @@
 local_costmap:
    global_frame: odom
    robot_base_frame: robot_footprint
-   update_frequency: 0.25
-   publish_frequency: 0.25
+   # Decrease update_frequency & publish_frequency, if you received warning on Transform Timeout and Map Update Loop
+   update_frequency: 0.25 # default: 5.0
+   publish_frequency: 0.25 # default 0.0
    width: 10.0 #20.0
    height: 10.0 #20.0
    resolution: 0.05
+   # the LOCAL static map keeps changing
    static_map: false
    rolling_window: true
