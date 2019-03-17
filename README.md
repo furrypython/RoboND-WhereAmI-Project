@@ -36,6 +36,4 @@ $ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ## References  
 1. [Basic Navigation Tuning Guide](http://wiki.ros.org/navigation/Tutorials/Navigation%20Tuning%20Guide): ROS wiki  
 2. [base_local_planner does not follow the global plan accurately](https://answers.ros.org/question/209287/base_local_planner-does-not-follow-the-global-plan-accurately/): The Construct  
-3. [移動型ロボットのURDF作成](https://gbiggs.github.io/rosjp_urdf_tutorial_text/mobile_robot_urdf.html): ロボットモデリング講習会
-
   
