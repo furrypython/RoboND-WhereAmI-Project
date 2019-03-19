@@ -10,7 +10,6 @@ In this project, I learned several aspects of robotic software engineering with 
 ## Launching   
 First, launch the simulation:  
 ```sh  
-$ cd /home/workspace/catkin_ws/
 $ roslaunch my_robot world.launch
 ```  
 
